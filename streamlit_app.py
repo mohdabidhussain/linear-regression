@@ -1,2 +1,2 @@
 # linear-regression
-liner regression for titanic 
+# liner regression for titanic 
